@@ -1,0 +1,512 @@
+@media screen and (min-width: 768px) {
+  .container {
+    width: 60rem;
+    background-color: brown;
+  }
+  .footer__mohtava ul {
+    display: flex;
+    flex-direction: row;
+  }
+  .feedBack__items {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem;
+
+    margin-top: 2rem;
+  }
+  .cvd,
+p {
+  color: #17c2ec;
+  width:24rem;
+  margin-bottom: 0.5rem;
+  font-size: medium;
+}
+  .feedBak__info-item1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1rem;
+    justify-content: center;
+  }
+  .info {
+    margin: 4rem;
+    border-radius: 1rem;
+    /* width: 100%; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 3rem;
+    background-color: rgba(196, 196, 196, 0.25);
+  }
+  .rang {
+    background-color: #17c2ec;
+  }
+  .cvd,
+  p {
+    color: #ffffff;
+    width: 25rem;
+
+  }
+
+  .whole {
+    width: 66rem;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+  }
+  .getVaccinated__protect-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .getVaccinated__protect {
+    width: 35rem;
+  }
+  .getVaccinated__protect-item {
+    width: 40rem;
+  }
+  .getVaccinated__protect-item1 {
+    width: 30rem;
+  }
+  .register__mobile-col {
+    /* display: flex; */
+    flex-direction: row;
+    width: 62rem;
+  }
+  .reguster__info {
+    padding: 5rem;
+    display: flex;
+    width: 66rem;
+    flex-direction: column;
+  }
+  .mobileSelect {
+    width: 30rem;
+
+    margin-left: 10rem;
+  }
+  .register__button-1 {
+    height: 4rem;
+  }
+  .register__submit {
+    width: 51rem;
+  }
+  .whole_picture {
+    width: 66rem;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding: 2rem;
+    width: 33rem;
+  }
+  .registration {
+    padding: 2rem;
+    width: 60rem;
+    min-height: 50rem;
+    /* background-color: white; */
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 2rem;
+    align-items: center;
+  }
+  .reguster__info-input {
+    width: 55rem;
+  }
+  .reguster__info {
+    padding: 2rem;
+    display: flex;
+    width: 60rem;
+    flex-direction: column;
+}
+  .regeistration_whole {
+    width: 60rem;
+  }
+  .register__mobile-col {
+    display: flex;
+    width: 55rem;
+  }
+  .exist {
+    width: 40rem;
+  }
+  .exisst {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 15rem;
+  }
+  .registration_top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    width: 35rem;
+  }
+  .registration__text {
+    width: 52rem;
+    align-items: flex-start;
+  }
+
+  .registration__text1 {
+    width: 31rem;
+    text-align: left;
+  }
+  .whole_covid{
+    width: 60rem;
+  }
+  .register{
+    width: 66rem;
+  }
+
+
+
+  .covid__check-text {
+    width: 60rem;
+    }
+
+  .covid__check {
+    width: 40rem;
+  }
+  .covid__check-text {
+    width: 26rem;
+    }
+   
+  /* .covid__check-input {
+   gap: 1rem;
+    display: flex;
+    flex-direction: row;
+    
+  } */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 924px) {
+  .container {
+    width: 100vw;
+  }
+  
+  .info {
+    display: flex;
+    flex-direction: column;
+    /* width: 30rem;
+      justify-content: space-between;
+      flex-direction: row; */
+    gap: 4rem;
+  }
+  /* .feedBack{
+    display: flex;
+  } */
+  .feedBack__items {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    padding: 4rem;
+
+    margin-top: 2rem;
+  }
+  .feedBak__info {
+    display: flex;
+    flex-direction: column;
+    width: 30rem;
+    /* padding: 1rem; */
+    margin-top: 2rem;
+  }
+  .rang {
+    background-color: #17c2ec;
+  }
+
+  .info img {
+    width: 40%;
+    border-radius: 50%;
+    padding: 1rem;
+  }
+  .feedBak__info-item1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1rem;
+    justify-content: center;
+  }
+  .fdbk {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    font-size: xx-large;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    color: #17c2ec;
+  }
+  .feedBack-text h2 {
+    font-size: xx-large;
+    font-weight: bold;
+  }
+  .feedBack__mtn {
+    width: 40%;
+    color: #716e6e;
+    margin-top: 1rem;
+    font-size: larger;
+  }
+  .covid-text {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
+
+  .covid-pic {
+    width: 66rem;
+  }
+  .covid__img {
+    width: 60rem;
+    object-fit: cover;
+    margin: 0 auto;
+  }
+  .span {
+    font-weight: bold;
+    color: #17c2ec;
+  }
+  .covid__mtn {
+    margin-top: 3rem;
+    color: #9a9999;
+    width: 66rem;
+    font-size: medium;
+  }
+  .registration {
+    /* padding: 2rem; */
+    width: 100%;
+    min-height: 50rem;
+    background-color: white;
+    /* margin: 3rem; */
+    /* background-color: blueviolet; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 2rem;
+    align-items: center;
+  }
+  .whole {
+    width: 66rem;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+  }
+  .getVaccinated__protect-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 53rem;
+  }
+  .getVaccinated__protect {
+    width: 80rem;
+    min-height: 28rem;
+    border-radius: 2rem;
+    border-top-right-radius: 6rem;
+    background-color: rgba(111, 105, 105, 0.278);
+    padding: 3rem;
+  }
+  .getVaccinated__describe-1 {
+    width: 85rem;
+    display: flex;
+    gap: 2rem;
+    justify-content: space-between;
+    flex-direction: row;
+  }
+  .getVaccinated-text {
+    width: 45rem;
+  }
+  .heading-3 {
+    width: 27rem;
+  }
+  .whole {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: end;
+  }
+  .registration {
+    gap: 4rem;
+    padding: 4rem;
+    width: 100%;
+    min-height: 50rem;
+    background-color: white;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    align-items: center;
+  }
+  .regeistration_whole {
+    padding: 2rem;
+    width: 100%;
+    display: flex;
+    gap: 11rem;
+    flex-direction: row-reverse;
+    justify-content: center;
+    /* background-color: blueviolet; */
+  }
+  .registration_top {
+    width: 35rem;
+  }
+  .reguster__info-input {
+    width: 33rem;
+  }
+  .reguster__info {
+    padding: 4rem;
+    display: flex;
+    width: 50rem;
+    flex-direction: column;
+  }
+  .covid {
+    width: 97.5rem;
+  }
+  .whole_covid{
+    width: 100%;
+  }
+  .covid__check-info {
+    width: 63rem;
+  }
+  .covid__check-result {
+  width: 63rem;
+  }
+  
+  .covid__check-input input{
+    width: 17rem;
+    padding: 1rem;
+  }
+  .covid__check-text {
+  width: 56rem;
+  }
+  .cvd, p {
+    color: #ffffff;
+    width: 50rem;
+}
+
+.navbar {
+  
+  width: 100%;
+  padding: 2rem;
+}
+.icon{
+  display: none;
+}
+.hero-text {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+}
+
+.hero {
+  width: 90rem;
+ 
+}
+ul{
+  width: 73rem;
+}
+.schedual__infoDiv {
+flex-direction: row;
+}
+.schedual__info ul li {
+width: 33rem;
+}
+
+.footer,
+  .footer-whole,
+  .footer__mohtava  {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* gap: -6rem; */
+    width: 70rem;
+    justify-content: center;
+}
+  .getVaccinated {
+  
+    margin-left: 11rem;
+    width: 80rem;
+  }
+    .covid__check {
+      margin-left: 11rem;
+
+      width: 91rem;
+  }
+.schedual__watch {
+    margin: 3rem;
+    width: 46rem;
+    display: flex;
+    margin-top: 5rem;
+    color: #ffffff;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2rem;
+}
+
+
+.whole-scadual {
+  margin-top: 5rem;
+  padding: 2rem;
+  width: 85rem;
+  border-radius: 1rem;
+  background-color: rgb(170 160 160 / 25%);
+}
+
+
+
+
+  /* .register__submit {
+    width: 44rem;
+}
+.register__mobile-col {
+  flex-direction: row;
+  display: flex;
+  gap: 8rem;
+  width: 53rem;
+}
+.mobileSelect {
+  width: 24rem;
+  margin-left: 10rem;
+}
+.option {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 19px;
+  position: relative;
+  border: 1px solid black;
+  width: 26rem;
+}
+  .reguster__info {
+    padding: 5rem;
+    display: flex;
+    width: 66rem;
+    flex-direction: column;
+  }
+  .mobileSelect {
+    width: 30rem;
+
+    margin-left: 10rem;
+  } */
+}
